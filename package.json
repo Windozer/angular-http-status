@@ -1,0 +1,25 @@
+{
+  "name": "angular-http-status",
+  "version": "0.1.1",
+  "description": "Convenience constant and factory to deal with HTTP status code",
+  "main": "angular-http-status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windozer/angular-http-status.git"
+  },
+  "keywords": [
+    "angular",
+    "http",
+    "status",
+    "code"
+  ],
+  "author": "Yllieth <sylvnimes@hotmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Windozer/angular-http-status/issues"
+  },
+  "homepage": "https://github.com/Windozer/angular-http-status#readme"
+}
